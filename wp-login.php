@@ -5,6 +5,10 @@
 	<title>登录 &lsaquo; haru映画工作室 &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
+<script id="essensial-blocks-blocks-localize-js-extra">
+var EssentialBlocksLocalize = {"eb_plugins_url":"http:\/\/localhost\/wordpress\/wp-content\/plugins\/essential-blocks\/","eb_wp_version":"6","eb_admin_url":"http:\/\/localhost\/wordpress\/wp-admin\/","rest_rootURL":"http:\/\/localhost\/wordpress\/wp-json\/","enabled_blocks":{"accordion":{"label":"Accordion","value":"accordion","visibility":"true"},"button":{"label":"Button","value":"button","visibility":"true"},"call_to_action":{"label":"Call To Action","value":"call_to_action","visibility":"true"},"countdown":{"label":"Countdown","value":"countdown","visibility":"true"},"dual_button":{"label":"Dual Button","value":"dual_button","visibility":"true"},"flipbox":{"label":"Flipbox","value":"flipbox","visibility":"true"},"advanced_heading":{"label":"Advanced Heading","value":"advanced_heading","visibility":"true"},"image_comparison":{"label":"Image Comparison","value":"image_comparison","visibility":"true"},"image_gallery":{"label":"Image Gallery","value":"image_gallery","visibility":"true"},"infobox":{"label":"Infobox","value":"infobox","visibility":"true"},"instagram_feed":{"label":"Instagram Feed","value":"instagram_feed","visibility":"true"},"interactive_promo":{"label":"Interactive Promo","value":"interactive_promo","visibility":"true"},"notice":{"label":"Notice","value":"notice","visibility":"true"},"parallax_slider":{"label":"Parallax Slider","value":"parallax_slider","visibility":"true"},"pricing_table":{"label":"Pricing Table","value":"pricing_table","visibility":"true"},"progress_bar":{"label":"Progress Bar","value":"progress_bar","visibility":"true"},"slider":{"label":"Slider","value":"slider","visibility":"true"},"social":{"label":"Social Icons","value":"social","visibility":"true"},"team_member":{"label":"Team Member","value":"team_member","visibility":"true"},"testimonial":{"label":"Testimonial","value":"testimonial","visibility":"true"},"toggle_content":{"label":"Toggle Content","value":"toggle_content","visibility":"true"},"typing_text":{"label":"Typing Text","value":"typing_text","visibility":"true"},"wrapper":{"label":"Wrapper","value":"wrapper","visibility":"true"},"number_counter":{"label":"Number Counter","value":"number_counter","visibility":"true"},"post_grid":{"label":"Post Grid","value":"post_grid","visibility":"true"},"feature_list":{"label":"Feature List","value":"feature_list","visibility":"true"},"row":{"label":"Row","value":"row","visibility":"true"},"table_of_contents":{"label":"Table Of Contents","value":"table_of_contents","visibility":"true"},"fluent_forms":{"label":"Fluent Forms","value":"fluent_forms","visibility":"true"},"advanced_tabs":{"label":"Advanced Tabs","value":"advanced_tabs","visibility":"true"},"advanced_navigation":{"label":"Advanced Navigation","value":"advanced_navigation","visibility":"true"},"woo_product_grid":{"label":"Woo Product Grid","value":"woo_product_grid","visibility":"true"},"advanced_image":{"label":"Advanced Image","value":"advanced_image","visibility":"true"},"wpforms":{"label":"WPForms","value":"wpforms","visibility":"true"},"post_carousel":{"label":"Post Carousel","value":"post_carousel","visibility":"true"},"advanced_video":{"label":"Advanced Video","value":"advanced_video","visibility":"true"},"popup":{"label":"Popup","value":"popup","visibility":"true"}},"is_fluent_form_active":"","fluent_form_lists":"[]","is_wpforms_active":"true","wpforms_lists":"[{\"value\":\"\",\"label\":\"Select a WPForm\"},{\"value\":172,\"label\":\"\空\白\表\单\"}]","is_templately_installed":"1","is_templately_active":"1","woocommerce_active":"false"};
+</script>
+<script src="/wp-content/plugins/essential-blocks/assets/js/eb-blocks-localize.js?ver=3.6.3" id="essensial-blocks-blocks-localize-js"></script>
 <link rel="stylesheet" id="dashicons-css" href="/wp-includes/css/dashicons.min.css?ver=6.0.2" media="all">
 <link rel="stylesheet" id="buttons-css" href="/wp-includes/css/buttons.min.css?ver=6.0.2" media="all">
 <link rel="stylesheet" id="forms-css" href="/wp-admin/css/forms.min.css?ver=6.0.2" media="all">
@@ -48,7 +52,7 @@
 		</form>
 
 					<p id="nav">
-								<a href="/wp-login.php?action=lostpassword">忘记密码？</a>
+				<a href="/wp-login.php?action=register">注册</a> | 				<a href="/wp-login.php?action=lostpassword">忘记密码？</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
@@ -104,7 +108,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/wordpress\/wp-admin\/admin-ajax.php"}};
 </script>
 <script src="/wp-includes/js/wp-util.min.js?ver=6.0.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"9c0ae5fe7f"};
+var userProfileL10n = {"user_id":"0","nonce":"0f933f5afa"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
